@@ -2,8 +2,9 @@
 Diablo 2 Resurrected Lootfilter
 
 **How to install:**
-1. Extract into game folder - path should look like: **Diablo II Resurrected\mods\lootfilter\lootfilter.mpq\**
-2. In battle.net launcher click the gear icon near play button - game settings - enable additional command line arguments and insert: 
+1. Download latest version: https://github.com/aglarcz/D2R-lootfilter/releases/latest
+2. Extract it into game folder - path should look like: **Diablo II Resurrected\mods\lootfilter\lootfilter.mpq\**
+3. In battle.net launcher click the gear icon near play button - game settings - enable additional command line arguments and insert: 
 * **-txt -mod lootfilter**
 
 Every mod has its own game settings - open **C:\Users\XXX\Saved Games\Diablo II Resurrected** and copy your settings file to subfolder **mods\lootfilter**.
