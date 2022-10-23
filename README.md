@@ -10,3 +10,6 @@ Diablo 2 Resurrected Lootfilter
 Every mod has its own game settings - open **C:\Users\XXX\Saved Games\Diablo II Resurrected** and copy your settings file to subfolder **mods\lootfilter**.
 
 ![image](https://user-images.githubusercontent.com/17107410/197287432-bebfc5b3-7380-4ed6-8b17-9a43bd83fae6.png)
+
+Lootfilter preview:
+![image](https://user-images.githubusercontent.com/17107410/197391297-661467c5-3f36-4ef3-8618-30ecc081e8cb.png)
